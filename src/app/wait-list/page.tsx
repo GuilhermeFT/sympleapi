@@ -4,7 +4,7 @@ import { useFormState } from "react-dom";
 import { saveLead } from "./server-action";
 import { Metadata } from "next";
 
-export const metaData: Metadata = {
+export const metadata: Metadata = {
   title: "SympleAPI - Wait List",
   description:
     "Estamos desenvolvendo uma funcionalidade incrível para o SympleAPI e queremos saber suas expectativas. Preencha o formulário abaixo e nos ajude a criar a melhor solução para você!",

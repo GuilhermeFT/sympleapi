@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import Link from "next/link";
 
-export const metaData: Metadata = {
+export const metadata: Metadata = {
   title: "SympleAPI",
   description:
     "Simplifique Sua Gestão de Conteúdo com o SympleAPI: Inscreva-se Agora!",
