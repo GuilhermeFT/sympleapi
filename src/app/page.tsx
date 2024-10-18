@@ -1,4 +1,12 @@
+import { Metadata } from "next";
 import Link from "next/link";
+
+export const metaData: Metadata = {
+  title: "SympleAPI",
+  description:
+    "Simplifique Sua Gestão de Conteúdo com o SympleAPI: Inscreva-se Agora!",
+  keywords: ["sympleapi", "cms", "api", "content management system"],
+};
 
 export default function HomePage() {
   return (
